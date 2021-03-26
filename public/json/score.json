@@ -1,17 +1,16 @@
 {
  "snake": {
-  "username": "no",
-  "score": 20,
-  "uesd": true
+  "username": "",
+  "score": 0,
+  "uesd": false
  },
  "jump": {
-  "username": "DL Winer",
-  "time": 60,
-  "uesd": true
+  "username": "",
+  "time": 0,
+  "uesd": false
  },
  "scoreList": [
-  "DL Winer",
-  "no"
+  
  ],
- "scoreNumber": 2
+ "scoreNumber": 0
 }
