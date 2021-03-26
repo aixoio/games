@@ -1,0 +1,17 @@
+{
+ "snake": {
+  "username": "no",
+  "score": 20,
+  "uesd": true
+ },
+ "jump": {
+  "username": "DL Winer",
+  "time": 60,
+  "uesd": true
+ },
+ "scoreList": [
+  "DL Winer",
+  "no"
+ ],
+ "scoreNumber": 2
+}

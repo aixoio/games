@@ -1,0 +1,18 @@
+a {
+    color: #0000ff;
+}
+#highScores {
+    border: 5px solid #ffaaff;
+    border-radius: 15px;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+    min-width: 300px;
+    min-height: 200px;
+    resize: both;
+}
+#del {
+    background-color: #00aacc;
+}

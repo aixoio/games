@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Jump",
+    "url": "/jump"
+  },
+  {
+    "name": "Snake",
+    "url": "/snake"
+  }
+]
